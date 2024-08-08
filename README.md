@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdul Samad</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **Js**
 
-- 🌱 I’m currently learning **Nextjs**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Html Css and their frameworks**
 
